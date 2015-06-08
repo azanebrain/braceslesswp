@@ -1,0 +1,16 @@
+{
+  "name": "braceslesswp",
+  "authors": [
+    "AJ Zane"
+  ],
+  "license": "GPL2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": { }
+}

@@ -1,0 +1,16 @@
+- name = 'forest';
+- title = 'Jade demo';
+
+body
+  head
+    title $title
+  body
+    h1 Run 
+      = name
+    p RUN!
+  
+  ul
+    - foreach (post in posts)
+    li 
+      - the_title()
+      p(name!='<?php echo $name; ?>') This is my name
