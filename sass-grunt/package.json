@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A Sass Grunt sample",
   "author": "AJ Zane <androiddreams@AJZane.com>",
-  "homepage": "git@github.com:azanebrain/bracelesswp.git",
+  "homepage": "git@github.com:azanebrain/braceslesswp.git",
   "engines": {
     "node": ">=v0.10.22"
   },

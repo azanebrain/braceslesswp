@@ -1,11 +1,11 @@
-# bracelesswp
+# braceslesswp
 Starter boilerplates to use preprocessors like sass, jade, coffeescript, and task runners like gulp and grunt in your WordPress development workflow
 
 
 # About
 BraceslessWP is a concept I presented at WordCamp Orange County 2015. It proposes a set of strategies to utilize preprocessors for a more efficient and faster WordPress development workflow.
 
-[azanebrain.github.io/presentations/bracelesswp](http://azanebrain.github.io/presentations/bracelesswp)
+[azanebrain.github.io/presentations/braceslesswp](http://azanebrain.github.io/presentations/braceslesswp)
 
 This code repository has starter boilerplates that will get you going in a number of preprocessor and task runner combinations.
 
@@ -16,13 +16,13 @@ You will also find a list of really cool resources and articles that will help y
 1) Get the files onto your computer using git. Run the following commands from your terminal, or fork this repo in your preferred git client.
 
 ```bash
-git clone git@github.com:azanebrain/bracelesswp.git 
+git clone git@github.com:azanebrain/braceslesswp.git 
 ```
 
 1.2) Get into the new project directory. You can either do this through the terminal, or open up the folder in your file browser.
 
 ```bash
-cd bracelesswp 
+cd braceslesswp 
 ```
 
 2) Setup Node by running the following command in your terminal, or downloading the executable for your OS and installing it like any other program.
@@ -31,7 +31,7 @@ cd bracelesswp
 brew install node
 ```
 
-Once node is installeda, you will use Node's Package Manager (npm) to setup each project. For example (these terminal commands should be run from the bracelesswp directory):
+Once node is installeda, you will use Node's Package Manager (npm) to setup each project. For example (these terminal commands should be run from the braceslesswp directory):
 
 ```bash
 cd grunt-jade
@@ -56,7 +56,7 @@ What I'm working on adding:
 - Add a filtering tool to this page to easily sort by technology
 - Add more preprocessors
 
-Contact me on [twitter](https://twitter.com/azanebrain) or [submit an issue](https://github.com/azanebrain/bracelesswp/issues/new)
+Contact me on [twitter](https://twitter.com/azanebrain) or [submit an issue](https://github.com/azanebrain/braceslesswp/issues/new)
 
 # Resources
 
